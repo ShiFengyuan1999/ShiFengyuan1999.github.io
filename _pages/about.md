@@ -30,8 +30,8 @@ redirect_from:
 
 ---
 
-[//]: # (<br/>)
+<br/>
 
-[//]: # (<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=47698e&w=300&t=tt&d=VCJt2AwonW3bZTbdGYyDrvOqtn6gagjRHHZRUqZxDdU&ct=000000&co=ffffff&cmo=67d6ad&cmn=35e235'></script>)
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=HsfjHbPtWAgRRlCqn9JtwZmMnlSIwhRsVsFLUg0KhXU&co=2d78ad&ct=ffffff&cmo=3acc3a&cmn=ff5353'></script>
 
-[//]: # (<br/>)
+<br/>
