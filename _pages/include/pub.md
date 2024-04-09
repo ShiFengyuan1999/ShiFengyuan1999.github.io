@@ -8,7 +8,7 @@ Check out full publication list at my <a href='https://scholar.google.com/citati
 </b><br>
 <i>The IEEE Conference on Computer Vision and Pattern Recognition, 2024</i><br>
 <b>Fengyuan Shi</b>, Jiaxi Gu, Hang Xu, Songcen Xu, Wei Zhang, Limin Wang<br>
-[<a href="https://bivdiff.github.io/">Project Page</a>][<a href="https://arxiv.org/abs/2312.02813">ArXiv</a>]
+[<a href="https://arxiv.org/abs/2312.02813">ArXiv</a>][<a href="https://bivdiff.github.io/">Project Page</a>][<a href="https://github.com/MCG-NJU/BIVDiff">Code</a>]
 <div style="text-align: justify">
 
 </div>
