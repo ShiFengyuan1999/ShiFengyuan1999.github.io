@@ -1,6 +1,5 @@
 # 📝 Projects
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Github</div><a href="images/Open-MAGVIT2.png"><img src='images/Open-MAGVIT2.png' alt="sym"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
 <b>Open MAGVIT-2 project.</b><br>
