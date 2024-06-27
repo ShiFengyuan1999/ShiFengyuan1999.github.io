@@ -35,7 +35,7 @@ Check out full publication list at my <a href='https://scholar.google.com/citati
 <b>End-to-end dense video grounding via parallel regression</b><br>
 <i>Computer Vision and Image Understanding, 2024</i><br>
 <b>Fengyuan Shi</b>, Weilin Huang, Limin Wang<br>
-[<a href="https://arxiv.org/abs/2109.11265">ArXiv</a>]
+[<a href="https://arxiv.org/abs/2109.11265">ArXiv</a>][<a href="https://github.com/MCG-NJU/PRVG">Code</a>]
 <div style="text-align: justify">
 
 </div>
