@@ -3,8 +3,8 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Github Project</div><a href="images/Open-MAGVIT2.png"><img src='images/Open-MAGVIT2.png' alt="sym" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
-<b>Open MAGVIT-2 project</b><br>
-Zhuoyan Luo, <b>Fengyuan Shi</b>, Yixiao Ge.<br>
+<b>Open MAGVIT-2 Project.</b><br>
+Zhuoyan Luo, <b>Fengyuan Shi</b>, Yixiao Ge<br>
 [<a href="https://github.com/TencentARC/Open-MAGVIT2">Code</a>]
 <div style="text-align: justify">
 <ul>
