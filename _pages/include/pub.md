@@ -29,7 +29,7 @@ Chen Xu, Haocheng Shen, <b>Fengyuan Shi</b>, Boheng Chen, Yixuan Liao, Xiaoxin C
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-PAMI 2024</div><a href="images/DynamicMDETR-TPAMI2023.png"><img src='images/DynamicMDETR-TPAMI2023.png' alt="sym" width="100%"></a></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-PAMI 2024</div><a href="images/DynamicMDETR-TPAMI2024.png"><img src='images/DynamicMDETR-TPAMI2024.png' alt="sym" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
 <b>Dynamic MDETR: A Dynamic Multimodal Transformer Decoder for Visual Grounding</b><br>
