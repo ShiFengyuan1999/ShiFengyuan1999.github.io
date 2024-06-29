@@ -29,11 +29,11 @@ Chen Xu, Haocheng Shen, <b>Fengyuan Shi</b>, Boheng Chen, Yixuan Liao, Xiaoxin C
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-PAMI 2023</div><a href="images/DynamicMDETR-TPAMI2023.png"><img src='images/DynamicMDETR-TPAMI2023.png' alt="sym" width="100%"></a></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-PAMI 2024</div><a href="images/DynamicMDETR-TPAMI2023.png"><img src='images/DynamicMDETR-TPAMI2023.png' alt="sym" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
 <b>Dynamic MDETR: A Dynamic Multimodal Transformer Decoder for Visual Grounding</b><br>
-<i>IEEE Transactions on Pattern Analysis and Machine Intelligence, 2023</i><br>
+<i>IEEE Transactions on Pattern Analysis and Machine Intelligence, 2024</i><br>
 <b>Fengyuan Shi</b>, Ruopeng Gao, Weilin Huang, Limin Wang<br>
 [<a href="https://arxiv.org/abs/2209.13959">ArXiv</a>][<a href="https://shifengyuan1999.github.io">Code Coming Soon</a>]
 <div style="text-align: justify">
