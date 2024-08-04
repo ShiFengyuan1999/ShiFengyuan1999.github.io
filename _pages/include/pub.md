@@ -1,20 +1,6 @@
 # 📝 Selected Publications 
 Check out full publication list at my <a href='https://scholar.google.com/citations?user=Y4gRKN4AAAAJ'>Google Scholar profile</a>.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2024</div><a href="images/ProVP-IJCV2024.png"><img src='images/ProVP-IJCV2024.png' alt="sym" width="100%"></a></div></div>
-<div class='paper-box-text' markdown="1">
-
-<b>Progressive Visual Prompt Learning with Contrastive Feature Re-formation
-</b><br>
-<i>International Journal of Computer Vision, 2024</i><br>
-Chen Xu, Haocheng Shen, <b>Fengyuan Shi</b>, Boheng Chen, Yixuan Liao, Xiaoxin Chen, Limin Wang<br>
-[<a href="https://arxiv.org/abs/2304.08386">ArXiv</a>]
-<div style="text-align: justify">
-
-</div>
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><a href="images/BIVDiff-CVPR2024.png"><img src='images/BIVDiff-CVPR2024.png' alt="sym" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
