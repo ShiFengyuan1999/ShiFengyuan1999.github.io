@@ -8,7 +8,7 @@ Zhuoyan Luo*, <b>Fengyuan Shi*</b>, Yixiao Ge, Yujiu Yang, Limin Wang, Ying Shan
 [<a href="https://arxiv.org/abs/2409.04410">ArXiv</a>][<a href="https://github.com/TencentARC/Open-MAGVIT2">Code</a>]
 <div style="text-align: justify">
 <ul>
-      <li>An open-source replication of Google’s MAGVIT-v2 tokenizer with a super-large codebook (i.e., 2^18 codes), and it achieves the state-of-the-art reconstruction performance (1.17 rFID) on ImageNet 256 ˆ 256.</li>
+      <li>An open-source replication of Google’s MAGVIT-v2 tokenizer with a super-large codebook (i.e., 2^18 codes), and it achieves the state-of-the-art reconstruction performance (1.17 rFID) on ImageNet 256 &times 256.</li>
       <li>A family of auto-regressive image generation models ranging from 300M to 1.5B, which adapts super-large codebook into vanilla auto-regressive generation.</li>
 </ul>
 </div>
