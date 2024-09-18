@@ -3,12 +3,13 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Github Project</div><a href="images/Open-MAGVIT2.png"><img src='images/Open-MAGVIT2.png' alt="sym" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
-<b>Open MAGVIT-2 Project.</b><br>
-Zhuoyan Luo, <b>Fengyuan Shi</b>, Yixiao Ge<br>
-[<a href="https://github.com/TencentARC/Open-MAGVIT2">Code</a>]
+<b>OPEN-MAGVIT2: An Open-source Project Toward Democratizing Auto-Regressive Visual Generation</b><br>
+Zhuoyan Luo*, <b>Fengyuan Shi*</b>, Yixiao Ge, Yujiu Yang, Limin Wang, Ying Shan<br>
+[<a href="https://arxiv.org/abs/2409.04410">ArXiv</a>][<a href="https://github.com/TencentARC/Open-MAGVIT2">Code</a>]
 <div style="text-align: justify">
 <ul>
-      <li>It is an open source implementation of Google's <a href="https://arxiv.org/abs/2310.05737">MAGVIT-2</a>, which introduces a novel quantization method called Lookup Free Quantization (LFQ) to enable super large size of codebook (e.g., 2^18).</li>
+      <li>An open-source replication of Google’s MAGVIT-v2 tokenizer with a super-large codebook (i.e., 2^18 codes), and it achieves the state-of-the-art reconstruction performance (1.17 rFID) on ImageNet 256 ˆ 256.</li>
+      <li>A family of auto-regressive image generation models ranging from 300M to 1.5B, which adapts super-large codebook into vanilla auto-regressive generation.</li>
 </ul>
 </div>
 </div>
