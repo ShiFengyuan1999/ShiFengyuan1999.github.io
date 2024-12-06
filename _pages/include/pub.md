@@ -7,7 +7,7 @@ Check out full publication list at my <a href='https://scholar.google.com/citati
 <b>Taming Scalable Visual Tokenizer for Autoregressive Image Generation
 </b><br>
 <i>ArXiv preprint, 2024</i><br>
-<b>Fengyuan Shi*</b>, Zhuoyan Luo*, Yixiao Ge, Yujiu Yang, Ying Shan, Limin Wang<br>
+**Fengyuan Shi***, Zhuoyan Luo*, Yixiao Ge, Yujiu Yang, Ying Shan, Limin Wang<br>
 [<a href="https://arxiv.org/abs/2412.02692">ArXiv</a>][<a href="https://github.com/TencentARC/SEED-Voken">Code</a>]
 <div style="text-align: justify">
 
