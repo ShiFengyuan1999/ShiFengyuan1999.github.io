@@ -1,5 +1,5 @@
 # 🪪 Academic Service
-- Conference Reviewer: CVPR 2024.
+- Conference Reviewer: CVPR 2024/2025.
 
 - Journal Reviewer:
 IEEE Transactions On Circuits and Systems;

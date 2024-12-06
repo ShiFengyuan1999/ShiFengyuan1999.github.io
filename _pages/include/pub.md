@@ -1,6 +1,21 @@
 # 📝 Selected Publications 
 Check out full publication list at my <a href='https://scholar.google.com/citations?user=Y4gRKN4AAAAJ'>Google Scholar profile</a>.
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv</div><a href="images/IBQ-gradient-flow.png"><img src='images/IBQ-gradient-flow.png' alt="sym" width="100%"></a></div></div>
+<div class='paper-box-text' markdown="1">
+
+<b>Taming Scalable Visual Tokenizer for Autoregressive Image Generation
+</b><br>
+<i>ArXiv preprint, 2024</i><br>
+<b>Fengyuan Shi*</b>, Zhuoyan Luo*, Yixiao Ge, Yujiu Yang, Ying Shan, Limin Wang<br>
+[<a href="https://arxiv.org/abs/2412.02692">ArXiv</a>][<a href="https://github.com/TencentARC/SEED-Voken">Code</a>]
+<div style="text-align: justify">
+
+</div>
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><a href="images/BIVDiff-CVPR2024.png"><img src='images/BIVDiff-CVPR2024.png' alt="sym" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
