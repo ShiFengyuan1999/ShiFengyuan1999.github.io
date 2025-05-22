@@ -33,6 +33,8 @@
 
 <b>SEED-Voken: A Series of Powerful Visual Tokenizers</b><br>
 The project aims to provide advanced visual tokenizers for autoregressive visual generation and currently supports the following methods:
+
+[<a href="https://github.com/TencentARC/SEED-Voken">Code</a>]
 <div style="text-align: justify">
 <ul>
 <li><a href="https://arxiv.org/abs/2409.04410">Open-MAGVIT2: An Open-source Project Toward Democratizing Auto-Regressive Visual Generation</a><br>
