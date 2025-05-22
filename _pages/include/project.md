@@ -37,7 +37,7 @@ The project aims to provide advanced visual tokenizers for autoregressive visual
 <ul>
 <li><a href="https://arxiv.org/abs/2409.04410">Open-MAGVIT2: An Open-source Project Toward Democratizing Auto-Regressive Visual Generation</a><br>
 Zhuoyan Luo*, <b>Fengyuan Shi*</b>, Yixiao Ge, Yujiu Yang, Limin Wang, Ying Shan<br></li>
-<li><a href="https://arxiv.org/abs/2412.02692">IBQ: Taming Scalable Visual Tokenizer for Autoregressive Image Generation</a><br>
+<li><a href="https://arxiv.org/abs/2412.02692">IBQ: Scalable Image Tokenization with Index Backpropagation Quantization</a><br>
 <b>Fengyuan Shi*</b>, Zhuoyan Luo*, Yixiao Ge, Yujiu Yang, Limin Wang, Ying Shan<br></li>
 </ul>
 </div>
