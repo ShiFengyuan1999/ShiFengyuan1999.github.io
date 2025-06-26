@@ -1,12 +1,12 @@
 # 📝 Selected Publications 
 Check out full publication list at my <a href='https://scholar.google.com/citations?user=Y4gRKN4AAAAJ'>Google Scholar profile</a>.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv</div><a href="images/IBQ.png"><img src='images/IBQ.png' alt="sym" width="100%"></a></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><a href="images/IBQ.png"><img src='images/IBQ.png' alt="sym" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
 <b>Scalable Image Tokenization with Index Backpropagation Quantization
 </b><br>
-<i>ArXiv preprint, 2024</i><br>
+<i>International Conference on Computer Vision, ICCV 2025, 2025</i><br>
 **Fengyuan Shi***, Zhuoyan Luo*, Yixiao Ge, Yujiu Yang, Ying Shan, Limin Wang<br>
 [<a href="https://arxiv.org/abs/2412.02692">ArXiv</a>][<a href="https://github.com/TencentARC/SEED-Voken">Code</a>]
 <div style="text-align: justify">
