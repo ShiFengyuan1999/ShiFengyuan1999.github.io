@@ -7,7 +7,7 @@ Check out full publication list at my <a href='https://scholar.google.com/citati
 <b>Scalable Image Tokenization with Index Backpropagation Quantization
 </b><br>
 <i>International Conference on Computer Vision, 2025</i><br>
-**Fengyuan Shi***, Zhuoyan Luo*, Yixiao Ge, Yujiu Yang, Ying Shan, Limin Wang<br>
+<b>Fengyuan Shi*</b>, Zhuoyan Luo*, Yixiao Ge, Yujiu Yang, Limin Wang, Ying Shan<br>
 [<a href="https://arxiv.org/abs/2412.02692">ArXiv</a>][<a href="https://github.com/TencentARC/SEED-Voken">Code</a>]
 <div style="text-align: justify">
 
