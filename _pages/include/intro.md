@@ -1,4 +1,4 @@
 # About Me
-I am currently a AI Researcher at JD Explore Academy. Before that, I received my Ph.D. from [Multimedia Computing Group (MCG)](https://mcg.nju.edu.cn/) in the Department of Computer Science and Technology, Nanjing University, under the supervision of Prof. [Limin Wang](https://wanglimin.github.io/). I also obtained my bachelor's degree from Nanjing University.
+I am currently an AI Researcher at JD Explore Academy. Before that, I received my Ph.D. from [Multimedia Computing Group (MCG)](https://mcg.nju.edu.cn/) in the Department of Computer Science and Technology, Nanjing University, under the supervision of Prof. [Limin Wang](https://wanglimin.github.io/). I also obtained my bachelor's degree from Nanjing University.
 
 My research interests lie in building general-purpose multimodal intelligence. I am particularly interested in video generation, world models, and unified multimodal models that seamlessly integrate perception, understanding, reasoning, and generation.
