@@ -1,5 +1,4 @@
 # About Me
-I am currently a final-year Ph.D. student at [Multimedia Computing Group (MCG)](https://mcg.nju.edu.cn/) in [Department of Computer Science and Technology](https://cs.nju.edu.cn/), Nanjing University, supervised by Prof. [Limin Wang](https://wanglimin.github.io/).
-Before that, I received my bachelor degree from Nanjing University.
+I am currently a Researcher at JD Explore Academy. Before that, I received my Ph.D. from [Multimedia Computing Group (MCG)](https://mcg.nju.edu.cn/) in the Department of Computer Science and Technology, Nanjing University, under the supervision of Prof. [Limin Wang](https://wanglimin.github.io/). I also obtained my bachelor's degree from Nanjing University.
 
-My current research interests lie in multimodal understanding and generation, including image/video grounding and synthesis. 
+My research interests lie in building general-purpose multimodal intelligence. I am particularly interested in video generation, world models, and unified multimodal models that seamlessly integrate perception, understanding, reasoning, and generation.
